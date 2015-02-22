@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1424584013845.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9BB2BF5B",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "rj885xarig",
+        "caption" : "trainAll",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=trainAll&cache_key=rj885xarig",
+        "displayedObservations" : 7352,
+        "environment" : "",
+        "object" : "trainAll",
+        "totalObservations" : 7352,
+        "variables" : 563
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

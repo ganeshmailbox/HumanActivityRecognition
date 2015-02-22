@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1424597468038.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3A81B43D",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ntl5outamg",
+        "caption" : "alldf.merg.avg",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=alldf.merg.avg&cache_key=ntl5outamg",
+        "displayedObservations" : 180,
+        "environment" : "",
+        "object" : "alldf.merg.avg",
+        "totalObservations" : 180,
+        "variables" : 89
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

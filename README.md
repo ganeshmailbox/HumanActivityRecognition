@@ -8,6 +8,7 @@ the <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 
 * <b>Description</b>: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
+* <b>Codebook</b>: Human Activity Recognition variables are described in the github repository mentioned below and please refer to <b>Codebook.md</b> for the same.
 
 
 ## Data Cleansing /Tidy data
