@@ -35,7 +35,7 @@ There were really two submittions a) the final step 5 submission and b) providin
 codebook and this readme file.
 
 First you will need to check the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+[https://github.com/ganeshmailbox/HumanActivityRecognition](https://github.com/ganeshmailbox/HumanActivityRecognition)
 
 ##Notes: 
 - Features are normalized and bounded within [-1,1].
